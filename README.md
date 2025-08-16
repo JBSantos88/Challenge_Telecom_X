@@ -1,8 +1,8 @@
-# Análise de Evasão de Clientes (Churn) - Projeto Telecom
+# Análise de Evasão de Clientes (Churn) - Projeto TelecomX
 
 ## Descrição do Projeto
-Este projeto tem como objetivo analisar o **problema de evasão de clientes (Churn)** de uma empresa de telecomunicações.  
-A análise utiliza dados de clientes para identificar padrões, fatores associados à evasão e gerar insights para auxiliar a **redução da perda de clientes**.
+Este projeto tem como objetivo analisar o **problema de evasão de clientes (Churn)** de uma empresa de telecomunicações "TelecomX".  
+A análise utiliza dados de clientes para identificar padrões, fatores associados à evasão e gerar insights para auxiliar a **redução da perda de clientes**. O projeto faz parte das atividades práticas do Curso da Oracle Next Education em parceria com a Alura.
 
 O projeto inclui:
 - Limpeza e tratamento de dados
